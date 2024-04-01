@@ -14,7 +14,8 @@ Parses HTTP/TCP packets and checks the payload for shellcode in several primitiv
 - npcap
 
 The libraries must be downloaded from official websites and placed in the appropriate folders: SimpleShellScanner/pcapplusplus and SimpleShellScanner/npcap-sdk
-In addition, you need to install npcap on your device
+
+In addition, you need to install npcap on your PC
 
 ## Build
 ```
